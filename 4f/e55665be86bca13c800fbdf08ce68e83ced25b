@@ -1,0 +1,27 @@
+src/cli/program/register.onboard.ts
+  s_785a37e8eb6862::t_98c0f3d3739516 233-235
+docs/start/wizard-cli-reference.md
+  s_785a37e8eb6862::t_9001fcd833ded1 224
+docs/start/wizard-cli-automation.md
+  s_785a37e8eb6862::t_5b43dbbc0edfed 170,177
+docs/cli/onboard.md
+  s_785a37e8eb6862::t_01cf3f001491b7 91-92,97
+src/commands/onboard-custom-config.ts
+  s_785a37e8eb6862::t_7e27d0a88c4389 565
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "4fe55665be86bca13c800fbdf08ce68e83ced25b",
+  "prompts": {},
+  "sessions": {
+    "s_785a37e8eb6862": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1facc8c7-e492-4a29-8ad3-44300f22c7ae",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Eric Levine <eric@levine.tech>"
+    }
+  }
+}
