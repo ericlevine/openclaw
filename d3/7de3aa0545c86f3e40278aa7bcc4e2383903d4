@@ -1,0 +1,36 @@
+src/cli/program/register.onboard.ts
+  s_785a37e8eb6862::t_21804603e46bcb 231-232
+  s_785a37e8eb6862::t_0893ab3e5c5557 148-151
+src/commands/onboard-non-interactive/local/auth-choice.ts
+  s_785a37e8eb6862::t_c683d472b8f8ee 222
+  s_785a37e8eb6862::t_e2d36239b93f00 235
+  s_785a37e8eb6862::t_a91201882a7aa6 184
+src/commands/onboard-custom-config.test.ts
+  s_785a37e8eb6862::t_0ea636257d0dfb 506-524
+  s_785a37e8eb6862::t_95e4905d2a7a68 549-566
+  s_785a37e8eb6862::t_abd477a82cf9f1 142-171
+src/commands/onboard-types.ts
+  s_785a37e8eb6862::t_3d057f2d3879c5 64
+src/commands/onboard-custom-config.ts
+  s_785a37e8eb6862::t_3c7b2ff63833b7 462-480
+  s_785a37e8eb6862::t_8d949ab33dafa0 187,197,207,216-217
+  s_785a37e8eb6862::t_2dade97dc5afbd 565-566
+  s_785a37e8eb6862::t_e992ea5aee507d 610,620,635-636
+  s_785a37e8eb6862::t_ba34d198e29b40 533,543
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "d37de3aa0545c86f3e40278aa7bcc4e2383903d4",
+  "prompts": {},
+  "sessions": {
+    "s_785a37e8eb6862": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1facc8c7-e492-4a29-8ad3-44300f22c7ae",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Eric Levine <eric@levine.tech>"
+    }
+  }
+}
